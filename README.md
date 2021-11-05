@@ -33,7 +33,7 @@ Integrantes:
 4. El proyecto se abrirá por si mismo en el navegador
 
 ## Enlaces
-- [Trello](https://trello.com/petya175)
+- [Trello](https://trello.com/vetpets1)
 - [Primer Avance](https://drive.google.com/file/d/1HoSlBwc4aUHVDIuqdGex8MPxYaSjvY4M/view?usp=sharing)
 - [Manual De Usuario](https://drive.google.com/file/d/1VpehEhRaUfw2PxSYTiXX7R240RGyxQ1m/view?usp=sharing)
 - [Manual Técnico](https://drive.google.com/file/d/1BTuYWugvO9BWP5Untwy52vz9zI6N-Baq/view?usp=sharing)
