@@ -1,4 +1,4 @@
-# <p align="center">Vet Ya!</p>
+# <p align="center">Vet Pets</p>
 
 Proyecto de catedra para la materia Diseño y Programación de Software Multiplataforma DPS104 G03T
 
@@ -34,7 +34,8 @@ Integrantes:
 
 ## Enlaces
 - [Trello](https://trello.com/petya175)
-- [Avance 1](https://docs.google.com/document/d/1B-8AZnB5ez5oxT0fwDOb4hkKZC_GxV1CviMRGzR4qew/edit)
+- [Manual De Usuario](https://drive.google.com/file/d/1VpehEhRaUfw2PxSYTiXX7R240RGyxQ1m/view?usp=sharing)
+- [Manual Técnico](https://drive.google.com/file/d/1BTuYWugvO9BWP5Untwy52vz9zI6N-Baq/view?usp=sharing)
 
 ## Licencia
 Licencia Creative Commons, ver archivo LICENSE
